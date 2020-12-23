@@ -1,4 +1,4 @@
-# VIEW Justin Murdock's Blog: [AkulaFPV](https://akulafpv.github.io/)
+# VIEW Justin Murdock's Blog: [MurdockFPV](https://MurdockFPV.github.io/)
 
 Murdock Aerial Imagery, LLC
 
